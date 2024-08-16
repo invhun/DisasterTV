@@ -11,7 +11,7 @@ Please refer to the 'DisasterTV/matching_filtering' folder to construct our disa
 
 # Text-Video Retrieval (GDR)
 
-Please refer to the 'DisasterTV/GDR' folder to run an efficient search model.
+Please refer to the 'DisasterTV/GDR' folder to run an our efficient retrieval model, Grid-based Disaster Retrieval (GDR).
 
 ![image](https://github.com/user-attachments/assets/3e7a2348-28f1-4313-b0a3-80dcc7ab435c)
 
