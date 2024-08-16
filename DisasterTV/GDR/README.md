@@ -1,3 +1,10 @@
+# Environment Setup
+
+```
+conda create -n DisasterTV python=3.9
+conda activate DisasterTV
+```
+
 ```markdown
 # Acknowledgements
 This code was based on CLIP4Clip.
