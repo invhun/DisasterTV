@@ -7,7 +7,7 @@ pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https
 pip install opencv-python boto3 requests pandas
 ```
 
-# Disaster Dataset Preparing
+# Disaster Dataset Preprocessing
 
 1. Download raw video from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
 2. Make directory and place the downloaded video in 'GDR/data/video'
