@@ -1,0 +1,6782 @@
+{
+    "fire_0001": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a building on fire and firefighters spraying fire water"
+        ]
+    },
+    "fire_0002": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a building on fire at night and two fire engines extinguishing it"
+        ]
+    },
+    "fire_0003": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the ominous glow of the burning mountain illuminates the surrounding landscape"
+        ]
+    },
+    "fire_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a bush on fire and a firefighter extinguishing it"
+        ]
+    },
+    "fire_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "the city is covered in thick smoke and flames,"
+        ]
+    },
+    "fire_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a fire that burns far and wide"
+        ]
+    },
+    "fire_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a firefighter strolls amid a forest, freshly doused flames"
+        ]
+    },
+    "fire_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a forest just after a fire has been extinguished"
+        ]
+    },
+    "fire_0025": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a mountain on fire"
+        ]
+    },
+    "fire_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a tree burning furiously in the middle of the forest"
+        ]
+    },
+    "fire_0027": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "black smoke billowing and a fire truck extinguishing a fire"
+        ]
+    },
+    "fire_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "buildings and fire trucks on fire with black smoke emanating from them"
+        ]
+    },
+    "fire_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "bushes burn wildly"
+        ]
+    },
+    "fire_0034": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "close up footage of a burning bush"
+        ]
+    },
+    "fire_0035": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "fire in a forest with large trees"
+        ]
+    },
+    "fire_0037": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "firefighters dousing a raging bush with extinguishing water"
+        ]
+    },
+    "fire_0038": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "firefighters extinguishing a burning mountain"
+        ]
+    },
+    "fire_0042": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "there are flaming trees and bushes"
+        ]
+    },
+    "fire_0046": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "bushes ablaze fiercely"
+        ]
+    },
+    "fire_0047": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "raging forest tree fire"
+        ]
+    },
+    "fire_0048": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "wildfires rapidly expanding"
+        ]
+    },
+    "fire_0049": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the burning bushes"
+        ]
+    },
+    "fire_0052": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the tree in the center is roaring with fire"
+        ]
+    },
+    "fire_0053": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the tree in the middle is roaring with fire"
+        ]
+    },
+    "fire_0054": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "trees ablaze with intensity"
+        ]
+    },
+    "fire_0055": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "expansive bushes in flames"
+        ]
+    },
+    "fire_0056": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "wildfires and the firefighters who came to put them out"
+        ]
+    },
+    "flood_0001": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a sturdy barrier protects against floods"
+        ]
+    },
+    "flood_0002": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a flood river between the city centers"
+        ]
+    },
+    "flood_0003": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a wide river swells with floodwaters"
+        ]
+    },
+    "flood_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "a man crossing a flooded street with shoes"
+        ]
+    },
+    "flood_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "a muddy river with a flood and strong current"
+        ]
+    },
+    "flood_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a road completely submerged by the flood"
+        ]
+    },
+    "flood_0007": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a snowstorm and a flood of rivers"
+        ]
+    },
+    "flood_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "stormy waves engulf the coastal sands"
+        ]
+    },
+    "flood_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the rainstorms finally subsided after a day"
+        ]
+    },
+    "flood_0010": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "an aerial view of a flooded river"
+        ]
+    },
+    "flood_0011": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "an aerial view of the flood river"
+        ]
+    },
+    "flood_0012": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "an asphalt road that is being flooded by heavy rain"
+        ]
+    },
+    "flood_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "benches submerged in the river after the hurricane"
+        ]
+    },
+    "flood_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "branches sweeping down the flooded river"
+        ]
+    },
+    "flood_0015": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "flood caused by heavy rain"
+        ]
+    },
+    "flood_0016": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "storm leaves area submerged in water"
+        ]
+    },
+    "flood_0017": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "river floods following harsh weather"
+        ]
+    },
+    "flood_0018": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "river swells after intense storm"
+        ]
+    },
+    "flood_0019": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "river overflows its banks"
+        ]
+    },
+    "flood_0020": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "swollen river causes concern"
+        ]
+    },
+    "flood_0021": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "street submerged due to deluge"
+        ]
+    },
+    "flood_0022": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "bridge inundated after heavy rain"
+        ]
+    },
+    "flood_0023": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "city overwhelmed by rising waters"
+        ]
+    },
+    "flood_0024": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "engulfed rivers and trees in water"
+        ]
+    },
+    "flood_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "footage of walking on flooded sidewalks"
+        ]
+    },
+    "flood_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "streetlights largely submerged by the flood"
+        ]
+    },
+    "flood_0029": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the trees in the flooded river"
+        ]
+    },
+    "flood_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a lake is flooding the surroundings"
+        ]
+    },
+    "flood_0031": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a raging river floods the banks"
+        ]
+    },
+    "flood_0032": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "trees submerged in the fast flooded river"
+        ]
+    },
+    "flood_0033": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "trees submerged in the flooded river"
+        ]
+    },
+    "flood_0034": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "two people pushing a car from behind on a flooded road"
+        ]
+    },
+    "flood_0035": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "two people talking on the flooded side of the road"
+        ]
+    },
+    "flood_0036": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "video of a car crossing a flooded street"
+        ]
+    },
+    "fog_0001": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "hazy mist envelops tranquil landscape"
+        ]
+    },
+    "fog_0002": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "autumn leaves shrouded in fog"
+        ]
+    },
+    "fog_0003": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "misty mountain scenery emerges"
+        ]
+    },
+    "fog_0004": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "lake cloaked in foggy atmosphere"
+        ]
+    },
+    "fog_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a car driving down a foggy road"
+        ]
+    },
+    "fog_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a car maneuvers along mist-veiled route"
+        ]
+    },
+    "fog_0007": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "car navigates through dense foggy path"
+        ]
+    },
+    "fog_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "automobile cautiously traverses fog-laden road"
+        ]
+    },
+    "fog_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "car journeys tentatively amid foggy conditions"
+        ]
+    },
+    "fog_0010": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a car on a foggy road"
+        ]
+    },
+    "fog_0011": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "a heavily fogged country road"
+        ]
+    },
+    "fog_0012": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "an old lady has difficulty driving through fog"
+        ]
+    },
+    "fog_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "cars driving on a foggy roadway"
+        ]
+    },
+    "fog_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "cars proceed cautiously on fog-engulfed road"
+        ]
+    },
+    "fog_0015": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "cars navigate treacherous foggy thoroughfare"
+        ]
+    },
+    "fog_0016": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "cars driving on foggy roads"
+        ]
+    },
+    "fog_0017": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "thick fog shrouds bridges mysteriously"
+        ]
+    },
+    "fog_0018": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "houses obscured by dense fog"
+        ]
+    },
+    "fog_0019": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "landscape enshrouded by heavy fog"
+        ]
+    },
+    "fog_0020": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "city blanketed with foggy conditions"
+        ]
+    },
+    "fog_0022": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "enigmatic view of foggy forest"
+        ]
+    },
+    "fog_0023": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "red buildings shrouded in fog"
+        ]
+    },
+    "fog_0024": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "misty haze cloaks red structures"
+        ]
+    },
+    "fog_0025": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "fog veils vivid red edifices"
+        ]
+    },
+    "fog_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "fog-draped rivers meet shadowy bridges"
+        ]
+    },
+    "fog_0027": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "foggy woods dominantly in foreground"
+        ]
+    },
+    "fog_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "woods cloaked in fog, panoramic"
+        ]
+    },
+    "fog_0029": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "cities engulfed in thick fog"
+        ]
+    },
+    "fog_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "ethereal mist hovers over tracks"
+        ]
+    },
+    "fog_0031": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "mist clings to rocky mountain"
+        ]
+    },
+    "fog_0032": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "woods shrouded in mystical mist"
+        ]
+    },
+    "fog_0033": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "old oak forest in the fog"
+        ]
+    },
+    "fog_0034": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "on a densely fogged road"
+        ]
+    },
+    "fog_0035": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "journeying carefully amid enveloping fog"
+        ]
+    },
+    "storm_0001": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones fall rapidly all around"
+        ]
+    },
+    "storm_0002": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "hail and rain falling hard"
+        ]
+    },
+    "storm_0003": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail falling on a black car"
+        ]
+    },
+    "storm_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail falling on a road"
+        ]
+    },
+    "storm_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail falling on the road and cars traveling on the road"
+        ]
+    },
+    "storm_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones pummel a parked car"
+        ]
+    },
+    "storm_0007": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "flowerpot receives a barrage of hail"
+        ]
+    },
+    "storm_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail in an alleyway"
+        ]
+    },
+    "storm_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail is falling in the garden"
+        ]
+    },
+    "storm_0010": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail is falling on the grass"
+        ]
+    },
+    "storm_0011": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail is falling on the porch"
+        ]
+    },
+    "storm_0012": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "hail is falling on the road"
+        ]
+    },
+    "storm_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones bouncing off the ground"
+        ]
+    },
+    "storm_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "hailstones falling on a balcony"
+        ]
+    },
+    "storm_0015": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones falling on a golf course"
+        ]
+    },
+    "storm_0016": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "golf course showered with hailstones"
+        ]
+    },
+    "storm_0017": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail unexpectedly bombards golf course greens"
+        ]
+    },
+    "storm_0018": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones falling on cars parked on the road"
+        ]
+    },
+    "storm_0019": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "hailstones falling on the house"
+        ]
+    },
+    "storm_0020": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "house bombarded by falling hail"
+        ]
+    },
+    "storm_0021": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hail descends upon rooftop fiercely"
+        ]
+    },
+    "storm_0022": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones falling on the road"
+        ]
+    },
+    "storm_0023": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones clutter a busy road"
+        ]
+    },
+    "storm_0024": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "hail impacts the roadway heavily"
+        ]
+    },
+    "storm_0025": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones falling outside"
+        ]
+    },
+    "storm_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones plummeting in outdoor area"
+        ]
+    },
+    "storm_0027": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones falling to the ground"
+        ]
+    },
+    "storm_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "hailstones hitting a car windshield"
+        ]
+    },
+    "storm_0029": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "huge hailstones are hitting the road"
+        ]
+    },
+    "storm_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "it is hailing outside and there are puppies running around"
+        ]
+    },
+    "storm_0031": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "large hailstones are falling"
+        ]
+    },
+    "storm_0032": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "lots of hail falling in sidewalks"
+        ]
+    },
+    "storm_0033": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "lots of hail falling with the rain"
+        ]
+    },
+    "storm_0034": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "rain and hail are pounding on the windows of the house"
+        ]
+    },
+    "storm_0035": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "red car covered in hail"
+        ]
+    },
+    "storm_0036": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "there is a strong storm and hail outside"
+        ]
+    },
+    "storm_0037": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "there is a severe storm and hail in front of your house"
+        ]
+    },
+    "landslide_0001": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "aerial footage of a landslide"
+        ]
+    },
+    "landslide_0002": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "overhead view of massive landslide"
+        ]
+    },
+    "landslide_0003": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "an aerial view of the landslide"
+        ]
+    },
+    "landslide_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "folklane restoring landslide roads"
+        ]
+    },
+    "landslide_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "paramedics at the landslide site and falling stones"
+        ]
+    },
+    "landslide_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "the trees that were knocked down by a landslide"
+        ]
+    },
+    "landslide_0007": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "truck gripped by landslides and forklane rescues truck"
+        ]
+    },
+    "landslide_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "test",
+        "captions": [
+            "forklift aids truck trapped in landslide"
+        ]
+    },
+    "landslide_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "val",
+        "captions": [
+            "landslide-entangled truck receives forklift help"
+        ]
+    },
+    "landslide_0010": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "truck ensnared by landslide gets forklift rescue"
+        ]
+    },
+    "storm_0041": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "a car driving on a stormy road"
+        ]
+    },
+    "storm_0042": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "car braves tempestuous road conditions"
+        ]
+    },
+    "storm_0043": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "car moves on stormy street"
+        ]
+    },
+    "storm_0052": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a rainstorm is brewing in front of the house"
+        ]
+    },
+    "storm_0076": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "heavy rain falling on a parked car"
+        ]
+    },
+    "storm_0078": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "heavy rain in the forest"
+        ]
+    },
+    "storm_0080": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "heavy rain on an outdoor table"
+        ]
+    },
+    "storm_0082": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "heavy rain on the house"
+        ]
+    },
+    "storm_0088": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "it is raining heavily in front of the house"
+        ]
+    },
+    "storm_0093": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "roads flooded by heavy rain"
+        ]
+    },
+    "storm_0094": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "heavy rainfall causes road flooding"
+        ]
+    },
+    "storm_0095": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "torrential rain floods streetways"
+        ]
+    },
+    "storm_0096": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "thick raindrops falling outside your home"
+        ]
+    },
+    "snow_0001": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "forest embraced by snowfall"
+        ]
+    },
+    "snow_0002": {
+        "type": "collected",
+        "source": "dareful",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "white house during winter"
+        ]
+    },
+    "snow_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a car driving through a snowstorm"
+        ]
+    },
+    "snow_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a tram driving on a snow covered road"
+        ]
+    },
+    "snow_0011": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "blizzard covers road surfaces"
+        ]
+    },
+    "snow_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "cars and houses covered by a strong snowstorm"
+        ]
+    },
+    "snow_0015": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "cars and trees covered in snow overnight"
+        ]
+    },
+    "snow_0020": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "houses covered by a snowstorm"
+        ]
+    },
+    "snow_0021": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "on the road in a blizzard"
+        ]
+    },
+    "snow_0022": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "people on the road in a blizzard"
+        ]
+    },
+    "snow_0023": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "people walking down the street in a blizzard"
+        ]
+    },
+    "snow_0024": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "people walking on the road in a blizzard"
+        ]
+    },
+    "snow_0025": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "residential neighborhoods in a snowstorm"
+        ]
+    },
+    "snow_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "roads and cars completely covered by a snowstorm"
+        ]
+    },
+    "snow_0027": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "cityscape blanketed by snow"
+        ]
+    },
+    "snow_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "wintry scene of snow-covered city"
+        ]
+    },
+    "snow_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "storefronts and streets in snowy splendor"
+        ]
+    },
+    "snow_0031": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "someone clearing snow from around the car"
+        ]
+    },
+    "snow_0032": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "someone clearing snow off the road"
+        ]
+    },
+    "storm_0098": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a house shaken by a storm"
+        ]
+    },
+    "storm_0121": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "trees swaying in the strong wind"
+        ]
+    },
+    "lightning_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "lightning",
+        "split": "test",
+        "captions": [
+            "lightning strikes in the mountains"
+        ]
+    },
+    "lightning_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "there are tall buildings and lightning"
+        ]
+    },
+    "lightning_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "lightning",
+        "split": "test",
+        "captions": [
+            "there is a house and a tree and lightning strikes"
+        ]
+    },
+    "volcano_0001": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "a lava flow erupting violently from a volcano"
+        ]
+    },
+    "volcano_0002": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "volcanic eruption unleashes powerful lava flow"
+        ]
+    },
+    "volcano_0003": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "a lava flow from a volcano"
+        ]
+    },
+    "volcano_0004": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "volcanic eruption emits molten lava"
+        ]
+    },
+    "volcano_0005": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "lava flows steadily from erupting volcano"
+        ]
+    },
+    "volcano_0006": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "black smoke billowing violently from a volcano"
+        ]
+    },
+    "volcano_0007": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "dark background and light lava"
+        ]
+    },
+    "volcano_0008": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "dazzling lava erupting against a dark sky"
+        ]
+    },
+    "volcano_0009": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "hot lava erupting violently"
+        ]
+    },
+    "volcano_0010": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "lava and smoke from the volcano"
+        ]
+    },
+    "volcano_0011": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "volcanic eruption spews lava and billowing smoke"
+        ]
+    },
+    "volcano_0012": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "lava flowing out of a crater"
+        ]
+    },
+    "volcano_0013": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "lava from two volcanic craters"
+        ]
+    },
+    "volcano_0014": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "lava pouring onto the floor"
+        ]
+    },
+    "volcano_0015": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "lava spewing onto the ground"
+        ]
+    },
+    "volcano_0016": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "lava spewing out of a crater"
+        ]
+    },
+    "volcano_0017": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "red lava continues to erupt between black rocks"
+        ]
+    },
+    "volcano_0018": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "molten lava seeps through dark crags"
+        ]
+    },
+    "volcano_0019": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "lava torrents cascade with fury"
+        ]
+    },
+    "volcano_0020": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "spatter cone erupting basalt lava"
+        ]
+    },
+    "volcano_0021": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "basaltic lava bursts from spatter cone"
+        ]
+    },
+    "volcano_0022": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "erupting spatter cone expels basaltic lava"
+        ]
+    },
+    "volcano_0023": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "spattering cone sends basalt lava forth"
+        ]
+    },
+    "volcano_0024": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "basalt lava gushes from spatter cone"
+        ]
+    },
+    "volcano_0025": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "spatter cone spews streams of basaltic lava"
+        ]
+    },
+    "volcano_0026": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "energetic eruption of basalt lava from spatter cone"
+        ]
+    },
+    "volcano_0027": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "spatter cone discharges cascading basalt lava"
+        ]
+    },
+    "volcano_0028": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "radiant lava expels from eruption"
+        ]
+    },
+    "volcano_0029": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "up close footage of lava spewing from a volcano"
+        ]
+    },
+    "volcano_0030": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "up close capture of volcanic lava outpouring"
+        ]
+    },
+    "volcano_0031": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "basaltic lava gushes from volcanic eruption"
+        ]
+    },
+    "volcano_0032": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "volcano spews molten basaltic lava"
+        ]
+    },
+    "volcano_0033": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "erupting volcano exudes basaltic lava"
+        ]
+    },
+    "volcano_0034": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "basaltic lava flows from volcanic outburst"
+        ]
+    },
+    "volcano_0035": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "volcanic eruption releases surging basaltic lava"
+        ]
+    },
+    "volcano_0036": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "fountain of basaltic lava in volcanic eruption"
+        ]
+    },
+    "volcano_0037": {
+        "type": "collected",
+        "source": "flickr",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "volcanoes spewing lava in a dark sky"
+        ]
+    },
+    "lightning_0015": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "lightning lights up left side then right side"
+        ]
+    },
+    "snow_0034": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "truck plows into the snow"
+        ]
+    },
+    "fire_0070": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "fire first shown"
+        ]
+    },
+    "snow_0035": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "silver car turns right after a snow plow passes"
+        ]
+    },
+    "flood_0059": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "people are pushing a white car through a flooded street"
+        ]
+    },
+    "snow_0036": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a man carries a young child sitting in a clear plastic tub through the snow"
+        ]
+    },
+    "snow_0037": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "snow is falling outside of a house"
+        ]
+    },
+    "storm_0122": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "carmera stays on the outdoor chimney during a hail storm"
+        ]
+    },
+    "snow_0038": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "the narrow pathway of grass is covered with snow"
+        ]
+    },
+    "snow_0039": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a kid in a black snow suit slides down a snow covered hill on his red sled"
+        ]
+    },
+    "fog_0036": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a foggy screen and a metal pole emerges"
+        ]
+    },
+    "lightning_0016": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "slight lightning flash"
+        ]
+    },
+    "snow_0040": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a car drives by on the snowy street"
+        ]
+    },
+    "fire_0071": {
+        "type": "collected",
+        "source": "didemo",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "flames are seen burning outside somewhere dark"
+        ]
+    },
+    "fire_0072": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a high-rise apartment building in a large city."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0073": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a house in a small town in the north of England."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0074": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire started in the kitchen of a restaurant. It was a small fire, but it quickly spread to the dining room."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0075": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a residential building in a suburb of a large city. The fire spread rapidly and soon engulfed the entire building."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0076": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire department was called to a house fire at 11:30 AM."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0077": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "A fire broke out in a three-story apartment building in the early morning hours."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0078": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation occurred at a local shopping mall."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0079": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A major fire broke out in a residential area in the city of New York."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0080": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a two-story apartment building."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0081": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster occurred at a building in the city of New York."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0082": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A major fire broke out in the city. A major fire broke out in the city, harming 25 people."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0083": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A large fire was reported in a commercial building in the city of Chicago. A large fire was reported in a commercial building in the city of Chicago."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0084": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire was so intense that it burned through the floor, the ceiling, and the walls of the building."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0085": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire was so intense that it melted the glass in the windows and the paint on the walls."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0086": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation occurred in a high-rise building."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0087": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire was so intense that it melted the glass in the windows and the paint on the walls."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0088": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation is one in which a building or other structure is damaged or destroyed by fire."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0089": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a large warehouse, and the firefighters were unable to contain it."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0090": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "The fire started in the kitchen, in the corner of the room, where the oven was."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0091": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire in a small town in the Midwest burned down a large portion of the town, including a church and a school."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0092": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster occurred in a residential area in a large city. The fire department responded to the fire disaster with the help of volunteers."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0123": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A hurricane swept across the Gulf Coast, harming 25 people and leaving thousands homeless."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0124": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "The city of Chicago is a place where the streets are filled with people. The people are going about their daily business."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0125": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A violent storm swept through the area, knocking down trees and power lines."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0126": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "The city was devastated by a hurricane. The city was devastated by a hurricane in 1992."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0127": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A huge storm was approaching the coast. The winds were howling and the rain was pouring down."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0128": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "The town was a ghost town. The town was a ghost town, a place of haunting memories."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0129": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A small town in the Midwest was devastated by a storm."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0130": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "On a clear night in the fall of 1997, a hurricane swept through the small town of Gatlinburg, Tennessee"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0131": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A 500-year storm event, a category 5 hurricane, or a 100-year flood event, or a"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0132": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A violent storm raged through the city, causing damage to the citys infrastructure."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0133": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "A massive storm swept across the Midwest, leaving a path of destruction in its wake."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0060": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A major flood occurred in the spring of 1998. The flood was caused by heavy rains in the mountains."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0061": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "A small town in the Midwest was hit by a major flood. The river rose and flooded the town."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0062": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "A river overflowed its banks, flooding a large area of land."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0063": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A man in a boat is looking at a house. The house is on fire."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0064": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The city of New York was hit by a massive flood."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0065": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A sudden flood of water rushed into the room. A flood of water rushed into the room."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0066": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "The flood waters rose so fast that the family had to flee their home in a hurry."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0067": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A flood disaster situation is one in which the normal level of a body of water is exceeded by a large amount of water, causing damage to property"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0068": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "A flood disaster situation is a time when the water level rises above the normal level."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0069": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A huge flood washed away the bridge, and the only way to get to the other side was to swim."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0070": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "A river flooded the town, harming 150 people. A river flooded the town, harming 150 people."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0071": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A man in a boat is rescuing people from a flood. He is using a rope to pull people to safety."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0072": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A huge wave of water swept through the city. It washed away homes, cars, and businesses."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0073": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The city of Los Angeles was devastated by a flood that lasted for weeks."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0074": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "The town of Boca Raton, Florida, was devastated by a flood in 2008."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0075": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A major flood disaster struck a city in the Midwest. The city was hit by a flood of epic proportions."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0076": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A city is inundated by a flood."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0077": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "A flash flood occurred in a city in the state of Colorado, USA. The city was located in a mountainous area."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0015": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The tsunami struck the coast of the Pacific Ocean, and the waves were high enough to reach the top of the cliffs."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0016": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "val",
+        "captions": [
+            "The tsunami struck at night. The waves were so large that they reached the second floor of the hotel."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0017": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "A large tsunami washed over the coastal city of Hilo, Hawaii, on Sunday, January 15, 2011"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0018": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The tsunami was so big that it washed away houses, cars, and even trees."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0019": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The city of Tokyo was struck by a massive earthquake. The earthquake was so powerful that it created a tsunami."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0020": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The tsunami was so big that it swept away the entire town."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0021": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "test",
+        "captions": [
+            "A tsunami disaster struck a small town in a country in the Pacific Ocean."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0041": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A snow disaster situation is a situation in which a large amount of snow falls in a short period of time, causing the roads to become impassable and"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0042": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "In the late 1990s, a series of severe winter storms hit the Northeast."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0043": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "A group of skiers, including a few children, were stranded on a mountain for several days."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0044": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A large city in the northeastern United States is struck by a major snowstorm. The storm is the worst in 100 years."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0045": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The people in the village were shocked by the news of the snow disaster. The village was hit by a snow disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0046": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The winter of 1977 was the worst in decades. The snow was so deep that the city had to close down for several days."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0047": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The airport was closed due to the blizzard. The blizzard closed the airport."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0048": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A snow disaster situation is a situation in which a large amount of snow falls in a short period of time, causing the roads to become impassable and"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0049": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "A sudden snow storm struck the town. A sudden snow storm struck the town, and the roads were blocked."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0050": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A man is standing in the middle of a snow-covered field, his head bowed, his hands in his pockets."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0051": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A major snowstorm hit the Midwest, bringing with it high winds and record-breaking snowfall."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0052": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard is a severe snowstorm that produces large amounts of snow and wind."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0053": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A small town is hit by a snow storm. The storm is severe and lasts for several days."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0054": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A snow disaster situation is a situation in which a large amount of snow falls in a short period of time, causing the roads to become impassable and"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0055": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A group of people were stranded in a snowstorm. They were trying to find a way to get to safety."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0056": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "A large city was hit by a snow storm. The snow was heavy and wet. It fell for days and days."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0057": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The people in the village were not prepared for the snowstorm. They had no food, no heat, and no shelter."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0058": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "A heavy snowfall caused many roads to be impassable. A heavy snowfall caused many roads to be impassable."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0059": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A snow disaster situation occurred in a large city in the Midwest."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0060": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A man is walking in the snow. He is wearing a coat and boots. He is carrying a bag. He is walking down a street."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0061": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A snow disaster situation occurs when a city is buried under several feet of snow."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0062": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A snow disaster struck a small town in the northern United States. The town was not prepared for the amount of snow that fell."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0063": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard of unprecedented magnitude struck the town of Wenatchee, Washington, on January 1, 2008."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0011": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A small town in the mountains of the western United States is experiencing a landslide disaster. The town is located in a valley surrounded by mountains."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0012": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "val",
+        "captions": [
+            "A 2000-year-old city, built on a mountain, was destroyed by a landslide."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0013": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "val",
+        "captions": [
+            "The 1989 Loma Prieta earthquake struck the San Francisco Bay Area, causing a landslide in the Santa Cruz Mountains."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0014": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A small village is located on the side of a mountain. The village is at the base of a large, steep slope."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0015": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A large landslide has occurred in a mountainous region of a country in Asia."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0016": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A 100-year-old dam is breached, sending a wall of water downstream, destroying everything in its path."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0001": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "A drought disaster situation has been declared for the following counties: A drought disaster situation has been declared for the following counties: Adams"
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0002": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "A drought disaster situation has occurred in the State of New South Wales. A drought disaster situation has occurred in the State of Victoria."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0003": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "In the early 1970s, a drought disaster situation developed in the Midwest."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0004": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "The drought disaster situation in the United States has reached a crisis level."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0005": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "test",
+        "captions": [
+            "The drought has lasted for months, and it is now affecting the lives of millions of people."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0006": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "The drought disaster situation is severe in the central and eastern parts of the country."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0007": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "test",
+        "captions": [
+            "A drought disaster situation has been declared in 15 of the 18 provinces in the country."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0008": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "In the 1930s, a severe drought hit the area, causing a severe famine. Many people died of starvation."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0009": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "In the early 1980s, the United States experienced a severe drought."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0006": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A massive earthquake struck the city of San Francisco, California, in 1906."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0007": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A massive earthquake hit the coast of Chile, and it was felt in many other countries."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0008": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "val",
+        "captions": [
+            "I was at the office, and I felt the floor move. I looked up and saw the ceiling tiles falling."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0009": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The 1994 Northridge earthquake, which struck the Los Angeles area, was the most destructive earthquake to hit Southern California in"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0010": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A magnitude 8.0 earthquake struck the city of Yunan."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0011": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The 1985 earthquake in Mexico City, which harmed more than 10,000 people, was a wake-up"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0012": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "test",
+        "captions": [
+            "I was sitting in my office, when the earthquake struck. I was sitting at my desk, when the earthquake struck."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0013": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "test",
+        "captions": [
+            "A 7.9 magnitude earthquake struck the region of Haiti, the poorest country in the Western Hemisphere."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0014": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The 1995 Kobe earthquake was a disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0015": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The city of Los Angeles was devastated by an earthquake."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0016": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "test",
+        "captions": [
+            "A magnitude 7.8 earthquake struck the Pacific Northwest on Tuesday."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0017": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "test",
+        "captions": [
+            "A lightning strike disaster situation occurred in a rural area of the United States. The disaster occurred on a Saturday afternoon."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0018": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "The city of Los Angeles was struck by a lightning bolt. The strike occurred on a Saturday afternoon."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0019": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A violent storm system passed through the region, bringing heavy rain and high winds."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0020": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "The city of Chicago, Illinois, was hit by a lightning strike disaster on June 14, 2010."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0021": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "The lightning strike occurred at a small rural church in the middle of the night."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0022": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "The 1998 Southeast US lightning strike disaster The 1998 Southeast US lightning strike disaster was"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0023": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A huge bolt of lightning strikes a tall building in a major city."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0024": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "val",
+        "captions": [
+            "The airport is closed. The storm is moving in. The lightning is hitting the runway. The rain is coming down."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0025": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A 30-year-old man was struck by lightning and harmed in a thunderstorm."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0026": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "test",
+        "captions": [
+            "A lightning strike disaster is a sudden, unexpected, and unpredictable event that can cause significant damage to property and injury or death to people."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0037": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was so thick that the plane crashed into the mountain."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0038": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large number of people were harmed and injured when a fog bank rolled in and caused a major accident on the highway."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0039": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was so thick that the pilot could not see the runway lights."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0040": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A small town is in the middle of a major fog disaster. The town is located in the middle of a valley, surrounded by mountains."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0041": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large metropolitan area is experiencing a major fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0042": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A dense fog rolled in. The fog was so thick that the driver of a car could not see the road ahead."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0043": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was thick. It was so thick that the driver of the car could not see the road ahead of him."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0044": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A dense fog blanketed the city. The air was so thick that people could barely see their hands in front of their faces."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0045": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large group of people are in a fog. They are in a large room. The room is very large."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0046": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "The fog was thick. The ship was traveling at night. The captain had to slow down to avoid hitting an iceberg."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0047": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "A few days ago, a group of people were walking down a street in a foggy area. They were looking for a place to stay for the night."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0048": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A city in the United States is experiencing a fog disaster. The fog is thick and impenetrable."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0049": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "A plane crashed into a building in a fog disaster situation."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0050": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "It was a foggy day in the city. A young man was driving his car through the city streets. He was driving very fast."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0051": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A man is driving his car on a foggy night. He is on a two-lane road with no other cars around."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0052": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A man and his wife were driving down a country road. It was foggy and the couple could not see very far ahead."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0053": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "A sudden and intense fog bank rolls in from the sea, blocking out the sun."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0054": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A massive fog bank rolled in from the Pacific Ocean and covered the entire area."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0055": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A small town in the mountains of North Carolina is the site of a terrible disaster. A huge fog bank, with no apparent cause, suddenly appears."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0056": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A man, a woman, and a child were walking along a road when they came upon a fog."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0057": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "The fog was so thick that the airplane could not see the runway. The pilot was forced to land on the grass."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0047": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts. It spews lava, rocks, and gas. The lava flows down the side of the volcano."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0048": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The volcano erupted, sending a massive column of ash into the sky."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0049": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in a densely populated area."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0050": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the Philippines. The volcano erupted in the Philippines."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0051": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The eruption of Mount St. Helens in 1980 was a disaster of the first magnitude."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0052": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the Pacific Northwest, spewing lava and ash for days."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0053": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in a densely populated area. The eruption was so powerful that it harmed thousands of people."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0054": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in a country in the Pacific Ocean."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0055": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the southwest corner of the country, near the border with Mexico."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0056": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The eruption of a volcano in a remote area of the world has left thousands of people homeless and without food."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0057": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The volcano erupted. The eruption was preceded by earthquakes and a series of small eruptions."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0058": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in a country on the other side of the world."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0059": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the Pacific Ocean. The eruption was a VEI 5."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0060": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The volcano is a stratovolcano, a conical volcano built up by many layers of hardened lava, tephra, pum"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0061": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the Philippines. It was a very big eruption. It harmed many people."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0062": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "A volcano erupted in the Philippines, harming hundreds of people."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0063": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "test",
+        "captions": [
+            "A volcano erupted in the middle of the city, and the lava flowed into the streets."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0064": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the area. The eruption caused a large amount of damage to the area."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0065": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in the middle of a city. It is the largest volcano in the world."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0093": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation occurred at a high school in a small town in the midwest."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0094": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "A fire in a high-rise apartment building, which is a common occurrence in large cities, has claimed the lives of 12 people and injured"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0095": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster occurred at a residence on 123 Main Street in Anytown, USA."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0096": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in the house of a man who lived in a small town."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0097": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "The fire department was called to the scene of a fire at a local restaurant. The fire department was called to the scene of a fire at a local restaurant."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0098": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A large, three-story building was located in a residential neighborhood. The building was constructed of wood frame with a masonry foundation."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0099": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a high-rise apartment building in a large city."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0100": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire started in the basement of a large office building. The fire spread quickly through the building, and the sprinkler system was not activated."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0101": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in the attic of a three-story apartment building in the early morning hours."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0102": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire department was called to the scene of a house fire. Upon arrival, the fire department found the house completely engulfed in flames."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0103": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation occurred in a residential building in a major city in the United States. The fire occurred on a weekday in the afternoon."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0104": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire disaster situation is a fire that occurs in a building or structure, which causes damage to the building or structure and/or its contents."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0105": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "The fire department was called to a house fire at 11:00 p.m. on a Sunday night."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0106": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "The fire was started by a small child playing with matches. The fire was started by a small child playing with matches."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0107": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A fire broke out in a two-story house on 123 Main Street. The fire was reported at 10:00 a."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0108": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "A large fire destroyed a historic building in the center of the city. The fire destroyed a large building in the center of the city."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0134": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "On the night of December 12, 2006, a severe thunderstorm developed over the city of Atlanta, Georgia."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0135": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A major hurricane struck the southeastern United States, harming hundreds of people and causing billions of dollars in damage."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0136": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "A tornado ripped through the town, destroying many homes and businesses."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0137": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A massive storm system swept through the region, causing massive damage to homes and businesses."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0138": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "A man and his wife were driving to their home when a storm began. They were driving through a rural area, and they were not familiar with the roads."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0139": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "A powerful storm, which has been ravaging the coastal areas of the United States for the past week, has left thousands of people homeless and without food"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0140": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "A storm disaster situation is a situation in which a storm has caused severe damage to a community. The damage can be physical, emotional, or financial."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0141": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "A hurricane struck the Gulf Coast, leaving a path of destruction in its wake."
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0142": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "The storm was a Category 5 hurricane. It was the strongest storm ever recorded in the Atlantic Ocean."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0078": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A flood disaster situation is a situation in which a flood has occurred or is occurring."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0079": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A man is standing on the shore of a river. He is looking at the water. The water is rushing."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0080": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The flood waters rose rapidly. The flood waters rose to the roof. The flood waters rose to the top of the door."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0081": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A. A flood disaster situation. B. A flood disaster situation, in which the flood waters are rising. C."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0082": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The city of Owensboro, Kentucky, was flooded in 1997."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0083": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The water was up to my waist, and I was carrying my two-year-old daughter."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0084": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A major flood occurred in the city of Tampa, Florida, in 1990."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0085": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "The rain fell in torrents for days. The river rose. The levees broke. The water rose and rose. The water rose and rose."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0086": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A small town in the Midwest, located in a valley, was hit by a major flood."
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0087": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "A major flood disaster has occurred in the region. Many people have lost their homes and belongings."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0022": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The first wave was a wall of water, over 30 feet high."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0023": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "A tsunami disaster situation is one of the most devastating natural disasters that can occur."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0024": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The tsunami hit the coast of Japan, destroying everything in its path."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0025": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "val",
+        "captions": [
+            "A tsunami disaster struck a coastal city in the southern hemisphere."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0026": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "val",
+        "captions": [
+            "A tsunami is a series of large ocean waves caused by a disturbance in the ocean floor."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0027": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "A tsunami disaster struck a small town on the coast of a large island in the Pacific Ocean."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0028": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "The tsunami struck the coast of the Indian Ocean, causing widespread destruction."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0029": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "A tsunami disaster struck a town in a country on the Pacific Ocean. The tsunami destroyed a bridge and a road."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0030": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "A large tsunami wave, caused by a large earthquake, struck the coast of a large country."
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0031": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "tsunami",
+        "split": "val",
+        "captions": [
+            "A tsunami is a large wave of water caused by an underwater disturbance."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0064": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard swept across the Midwest. The snowfall was so intense that the roof of a building collapsed."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0065": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The snow was falling so hard that the streets were impassable. People were stuck in their houses, unable to get out."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0066": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard struck the city of St. Paul, Minnesota, on January 26, 1996."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0067": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The disaster struck on a Friday morning. The school was in session, and the children were playing in the snow."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0068": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A long time ago, in a galaxy far, far away, a snowstorm hit the town of X."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0069": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A small town in the mountains of the Western United States is experiencing a snow disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0070": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The 2010 Winter Olympics were held in Vancouver, Canada."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0071": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A man was driving down a snowy road. The snow was falling faster and faster. He could not see the road ahead."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0072": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "A young couple, living in a small town, is on their way to a ski resort. They are in the middle of a snowstorm."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0073": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard struck the town of Duluth, Minnesota."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0074": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The 2010 winter was a severe one in the Northeast."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0075": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A blizzard is a severe snowstorm that produces whiteout conditions and winds that can reach up to 50 mph."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0076": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A young couple, a man and a woman, were on their way to a ski resort."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0077": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A man, his wife, and their three children were trapped in a snowstorm."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0078": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A man and a woman are walking down a snowy street. They are talking about the weather. The man says, It’s cold."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0079": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A man was walking down the street. It was snowing. He was wearing a red jacket. He was carrying a black umbrella."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0080": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The sky was a uniform gray, and the snow was falling steadily. The snow was falling in a steady, gentle, silent way."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0081": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A large city in the Midwest was experiencing a record-breaking snowfall."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0082": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "A group of skiers was caught in a blizzard. They were stranded for days."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0083": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "A major snow storm hit the city, and the city was paralyzed. The snow was so deep that the roads were impassable."
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0084": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "The winter storm that swept across the Midwest last weekend left a trail of destruction in its wake."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0017": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A major landslide occurred in the mountains of California."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0018": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "test",
+        "captions": [
+            "A landslide is a natural phenomenon that occurs when the ground surface moves down a slope."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0019": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A landslide disaster has occurred in a mountainous area. A large number of people have been harmed or injured, and many houses have been destroyed."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0020": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A large landslide has occurred in a mountainous region of the country. The landslide has affected a large area, including a number of small villages."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0021": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A massive landslide has occurred in the mountains of the southern state of Karnataka, India."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0022": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A small village, in a remote area, was located on a hillside."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0023": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A large landslide occurred in a mountainous area. The landslide destroyed a village, harming 100 people."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0024": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A massive landslide has occurred in a densely populated area."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0025": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A large area of land, including a small town, is sliding downhill, carrying houses, trees, and other debris with it."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0026": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "test",
+        "captions": [
+            "A small town is situated in a mountainous region. It is located on a river, which is a tributary of a large river."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0027": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A small community of 1000 people was built on the side of a mountain."
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0028": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "A massive landslide in the mountains of the southern province of Yunnan has harmed at least 12 people and left more than 100 missing"
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0010": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "A severe drought has been affecting the country for the past 12 months."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0011": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "In the 1970s, the U.S. government declared a drought disaster in the Midwest."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0012": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "The drought disaster situation in the Philippines has been described as the worst in 40 years."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0013": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "val",
+        "captions": [
+            "The drought was so severe that it harmed all the trees in the forest."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0014": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "A drought disaster situation has occurred in the northern part of the country."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0015": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "val",
+        "captions": [
+            "A drought disaster situation has been declared for the whole of the state of Victoria."
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0016": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "A drought disaster situation has occurred in the Southwest region of the United States."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0017": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "val",
+        "captions": [
+            "A powerful earthquake struck the Pacific Northwest, causing massive destruction."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0018": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The 1985 earthquake that devastated Mexico City harmed more than 10,000 people."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0019": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "The 1999 Kobe earthquake was a major earthquake that occurred on January 17, 1995 at "
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0020": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A massive earthquake struck the city of San Francisco, California."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0021": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A 7.0 magnitude earthquake hit the city of San Francisco on October 17, 1989."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0022": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "val",
+        "captions": [
+            "A massive earthquake struck the city of San Francisco in 1906, harming thousands of people and destroying much of the city."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0023": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "A powerful earthquake struck the city of New York on Friday, causing extensive damage to the city’s infrastructure and displacing thousands of residents."
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0024": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "I was in the kitchen when the earthquake struck. I was standing in the doorway to the living room, when the house began to shake."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0027": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A woman is standing on the roof of her house, in the middle of a lightning storm. She is holding a large umbrella over her head."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0028": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A 1200-foot-tall tree was struck by lightning, and the resulting fire burned the tree down."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0029": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A woman was harmed and two other people were injured when lightning struck a house in the southern city of Mersin."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0030": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A man was walking down the street when he was struck by lightning. He was harmed instantly."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0031": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A 15-year-old boy was struck by lightning while walking home from school."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0032": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A thunderstorm was brewing over the mountains. The sky was a dark, menacing grey. Lightning flashed in the distance."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0033": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A man is walking in a field when a bolt of lightning strikes the ground. He is struck by the bolt and harmed."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0034": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A 30-year-old man was struck by lightning while walking on a beach in the Caribbean."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0035": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A large storm front, which had been building for several days, was moving across the region."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0036": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A lightning strike disaster situation occurred in a city in the United States. The disaster struck a high-rise building that was under construction."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0037": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A small town in the Midwest, USA, is struck by a lightning bolt."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0038": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A large office building in a major city is struck by lightning."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0039": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A man is walking down a street, when suddenly he is struck by lightning. He is harmed instantly."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0040": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A sudden, unexpected, and violent lightning strike caused a large explosion, which destroyed a house, harming a woman and her two children."
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0041": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "A large, three-story, brick, commercial building, with a flat roof, is struck by lightning."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0058": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A young man is driving a car. He is on a road that is covered in fog."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0059": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A small group of people, all of whom are strangers to each other, are trapped in a large, dark, cold, and wet building."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0060": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large ship is caught in a fog bank and runs aground on a rocky reef."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0061": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The city was a large metropolis. It was located in a temperate climate, and the weather was usually mild."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0062": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large, well-known city, in a state that borders the Atlantic Ocean, is in the midst of a fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0063": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "A large city, a port city, is in the grip of a major fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0064": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A major airport in the northeastern United States was experiencing a fog disaster situation."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0065": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "A huge, black cloud hung over the city. It was a fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0066": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was thick. It was a thick, dense fog. It was so thick that you couldn’t see your hand in front of your face."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0067": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was thick and the visibility was zero. The airplane was flying in the fog. The pilot was flying in the fog."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0068": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "A city is hit by a major fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0069": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "April 2011, a small town in the Midwest, a family of four, two parents and two children, are on their way home"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0070": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was so thick, the train couldn’t see the tracks. It hit a tree and derailed."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0071": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A small town in the Midwest, with a population of 20,000, is in the midst of a major snowstorm."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0072": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large city is surrounded by a dense fog. A large number of people are traveling by car, on foot, and by bicycle."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0073": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A small town in the Midwest is in the midst of a long-term drought."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0074": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "A man, a woman, and a child are in a car, on a foggy night. They are driving along a highway."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0075": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A major city is blanketed by a thick fog. A train derails and crashes into a bus."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0076": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A plane crashed into a fog-shrouded mountain. The plane crashed into a fog-shrouded mountain."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0077": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A large city is enveloped in a thick fog. A woman is walking home from work."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0078": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A plane crashes into a mountain. The passengers and crew are harmed. The plane is destroyed. The mountain is damaged."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0079": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "A few days ago, a small town in the northern part of the country was hit by a major fog disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0080": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "The town of Foggyville was a sleepy little town, with a population of 1000."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0081": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "val",
+        "captions": [
+            "A fog disaster situation occurs when a group of people are trapped in a foggy area."
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0082": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "The fog was thick and impenetrable. The streets were deserted. The air was still. The silence was deafening."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0066": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "On a day in 1980, a volcano erupted. It was a terrible sight."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0067": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in a remote area of the world, and the eruption caused a massive tsunami."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0068": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts, and a large amount of lava flows down the mountain."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0069": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in the Philippines. The volcano erupts in the Philippines."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0070": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "A volcano erupted in the middle of the city, destroying everything in its path."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0071": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts. The volcano is in a mountainous area, and the eruption occurs in a mountainous area."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0072": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the southwest corner of the United States."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0073": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in the middle of a city. The volcano erupts and covers the city in ash."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0074": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts. The eruption is violent, with lava, ash, and gas."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0075": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the United States, harming hundreds of people."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0076": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The eruption of Mount St. Helens in 1980 is a classic example of a volcano disaster."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0077": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in the south of the country, harming 1500 people and destroying 2000 homes."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0078": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts in the Caribbean. A small island is completely destroyed."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0079": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "The volcano erupted, sending a massive cloud of ash into the air."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0080": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in a country that had not had an eruption in over 100 years."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0081": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupted in a town in a country."
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0082": {
+        "type": "generated",
+        "source": "LLaMa2",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "A volcano erupts, spewing lava and ash."
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0109": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "styrofoam factory in city had a fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0110": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the fire occurred, residents of nearby regions should be careful about fire and damage"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0111": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a building catches fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0112": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "the west coast expressway vehicle fire occurs"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0113": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the track fire has been restored, and the train is currently operating"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0114": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the fire occurred, residents of nearby regions should be careful about fire and damage"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0143": {
+        "type": "generated",
+        "source": "message",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "typhoon happens, people should go home quickly and avoid going out"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0144": {
+        "type": "generated",
+        "source": "message",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "typhoon is a concern for the damage to the structure"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0145": {
+        "type": "generated",
+        "source": "message",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "the coastal road is being flooded under the influence of typhoon"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0088": {
+        "type": "generated",
+        "source": "message",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there is a concern that there is a risk of flooding parking vehicles in sarah ecological park according to the miry ang samrangjin bridge flood"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0089": {
+        "type": "generated",
+        "source": "message",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "dong nae tax office and ahn leon are flooded"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0090": {
+        "type": "generated",
+        "source": "message",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "residents near dorimcheon are flooded"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0091": {
+        "type": "generated",
+        "source": "message",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the water level of anyangcheon is expected due to the continuous rainfall, so it is expected to be flooded"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0085": {
+        "type": "generated",
+        "source": "message",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "since the heavy snow warnings of city are issued there is a lot ofsnow, so please actively participate in the snow in front of the store in my house and use public transportation as much as possible"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0086": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "traffic congestion is expected to be crowded according to the snowfall of city"
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0017": {
+        "type": "generated",
+        "source": "collected",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "the dam has dried up and cracked"
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0018": {
+        "type": "generated",
+        "source": "collected",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "the sparse and withered landscape is a stark reminder of the prolonged drought"
+        ],
+        "model": "VideoComposer"
+    },
+    "drought_0019": {
+        "type": "generated",
+        "source": "collected",
+        "category": "drought",
+        "split": "train",
+        "captions": [
+            "a river that has dried up and cracked at the bottom"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0025": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "an earthquake in a living room"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0026": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "the highway is closed due to an earthquake landslide"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0027": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "rescue team searching for survivors in the rubble"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0028": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "the road and building were damaged in the earthquake"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0029": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "the buildings collapsed during the earthquake"
+        ],
+        "model": "VideoComposer"
+    },
+    "earthquake_0030": {
+        "type": "generated",
+        "source": "collected",
+        "category": "earthquake",
+        "split": "train",
+        "captions": [
+            "people are clearing debris from an earthquake"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0115": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "firefighters extinguish a raging bush"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0116": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a fire truck is fighting a fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0117": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a fire rages as a truck drives down the road"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0118": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "firefighters rush to tackle the blaze after the fire truck arrives at the burning house"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0119": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the bushes are on fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0120": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a martial artist throws an enemy, whose body explodes upon impact"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0121": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a house is on fire and a fire hydrant is gushing"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0122": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "there is a large mountain with fire on top and a winged animal flying by it"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0123": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a firefighter walks through a forest with freshly doused flames"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0124": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "the temple is engulfed in flames"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0125": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the group of three stands strong, surrounded by raging fires"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0126": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a bunch of horses and their passengers are on fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0127": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "an airplane fights a fire as it passes over a forest"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0128": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the surrounding landscape is illuminated by the glow of a burning mountain"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0129": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a huge fire rages through the city"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0130": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "val",
+        "captions": [
+            "a man in a toy car loses control, hits a curb, and his car explodes in a ball of fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0131": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a house catches on fire and explodes"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0132": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a man throws a stick on fire at a truck"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0133": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "the fires consume agricultural fields"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0134": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a man is looking at the explosion of a car"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0135": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "a building is engulfed in flames"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0136": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "the fire destroyed the forest ground"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0137": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a train crashes into an object and there is an explosion"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0138": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "four men are standing in the woods as an explosion sound is heard and the white car behind them is burning"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0139": {
+        "type": "generated",
+        "source": "message",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a jet has fallen to the ground as a fire rages on the road"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0140": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "a christmas tree on fire"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0141": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "test",
+        "captions": [
+            "a ship fires its cannons and emits a lot of light and smoke"
+        ],
+        "model": "VideoComposer"
+    },
+    "fire_0142": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fire",
+        "split": "train",
+        "captions": [
+            "there is a fire on a boat in the water"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0092": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a man is hanging onto the back of a car in a flooded street"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0093": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the rushing floodwater bursts through a gate"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0094": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there are ducks and a bench on a flooded riverbank"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0095": {
+        "type": "generated",
+        "source": "message",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the bridge was inundated after heavy rain"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0096": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the aerial view shows swollen, flooded rivers"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0097": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there are culverts on roads that are backing up into floodwaters"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0098": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there are rapids in the river in slow motion"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0099": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a car is driving through a flooded forest"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0100": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a small teal colored car is in the middle of a flooded road"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0101": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there is messy mud in a flooded river or lake"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0102": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there is a car crossing a flooded street in a video"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0103": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "people walking on flooded sidewalks"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0104": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there are dead trees submerged in floodwater"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0105": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "two people are sweeping mud from a house"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0106": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "long shot of road closed and flood signs in front of flooded street"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0107": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "powerful river rapids surge in slow motion"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0108": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a ship sinking in a flood"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0109": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "val",
+        "captions": [
+            "bikers navigate flooded streets"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0110": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "test",
+        "captions": [
+            "people are driving motorbikes and cars through road covered in muddy water"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0111": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "there is a flood in the agricultural field"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0112": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a picture of waste bins submerged in a flooded village"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0113": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a woman is walking across a flooded street and someone in costume runs up and splashes through the puddles"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0114": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "ducks swimming in a flooded river"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0115": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "bicyclists on flooded roads"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0116": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "a man is water skiing on a flooded street"
+        ],
+        "model": "VideoComposer"
+    },
+    "flood_0117": {
+        "type": "generated",
+        "source": "collected",
+        "category": "flood",
+        "split": "train",
+        "captions": [
+            "the banks are flooded by a raging river"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0083": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "an airplane is landing in fog"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0084": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "there is a container terminal with cranes on a foggy day"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0085": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "the ships were veiled by the mist"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0086": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "there is misty mountain scenery"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0087": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "test",
+        "captions": [
+            "the bridge is in the fog"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0088": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "the red structures are cloaked in a misty haze"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0089": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "there is an aerial tour above a cloud forest"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0090": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "the forest has a frozen lake"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0091": {
+        "type": "generated",
+        "source": "message",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a person is driving along a curvy road on a foggy day"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0092": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a forest of green trees surrounds a foggy valley"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0093": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a car drives through dense foggy path"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0094": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a car drives through dense foggy path"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0095": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "a person is walking through a foggy forest"
+        ],
+        "model": "VideoComposer"
+    },
+    "fog_0096": {
+        "type": "generated",
+        "source": "collected",
+        "category": "fog",
+        "split": "train",
+        "captions": [
+            "industrial chimneys above the clouds"
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0029": {
+        "type": "generated",
+        "source": "collected",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "a truck is trapped by a landslide and needs a forklift rescue"
+        ],
+        "model": "VideoComposer"
+    },
+    "landslide_0030": {
+        "type": "generated",
+        "source": "message",
+        "category": "landslide",
+        "split": "train",
+        "captions": [
+            "there is aerial footage of a landslide"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0087": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "dogs run through a garden blanketed in snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0088": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "there is a forest covered in snow in tierra del fuego, argentina"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0089": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "a house is ravaged by snowstorms"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0090": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "there is a gate covered in snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0091": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a forest covered in a snowstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0092": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "traffic congestion is expected to be crowded according to the snowfall of city"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0093": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "the river is covered in snow and ice"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0094": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "test",
+        "captions": [
+            "a road covered in snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0095": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "the snow falls slowly on a bench"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0096": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "heavy snowfall leaves trees with snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0097": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "people walking in a snowstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0098": {
+        "type": "generated",
+        "source": "message",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "there is snow covering a fence"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0099": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "scenes of people cleaning snow off their vehicles are shown"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0100": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "two people are shoveling snow in a heavy snow storm"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0101": {
+        "type": "generated",
+        "source": "message",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "there are winter scenes with vehicles and heavy snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0102": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a man is shoveling snow in a heavy snow storm"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0103": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "blizzard engulfs road beside a building"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0104": {
+        "type": "generated",
+        "source": "message",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a car is turning after a snow plow passes"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0105": {
+        "type": "generated",
+        "source": "message",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a tram driving on a snowy road"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0106": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "there is a bench wrapped in soft snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0107": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a bus is traveling in a snowstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0108": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "val",
+        "captions": [
+            "a person conducting an interview on a snow-covered street"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0109": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a man carries a young child in a tub through the snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0110": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a truck plows into the snow"
+        ],
+        "model": "VideoComposer"
+    },
+    "snow_0111": {
+        "type": "generated",
+        "source": "collected",
+        "category": "snow",
+        "split": "train",
+        "captions": [
+            "a tree in a snowstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0146": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "the golf course was hit by hailstones"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0147": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "there is heavy rain on the stairs"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0148": {
+        "type": "generated",
+        "source": "message",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "strong winds topple trees onto the road"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0149": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "an indian couple interacts and there is a big storm outside"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0150": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "cars traveling on the road are being hit by hail"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0151": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a white house with a black roof sits upon a grassy knoll while leaves blow by and a tree wobbles from the wind"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0152": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "severe storm over wide open land"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0153": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "dark clouds in the tropics"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0154": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "there is a pool filled with heavy rain"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0155": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "there is heavy rain on an outdoor table"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0156": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "during a hail storm, carmera stays on the outdoor chimney"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0157": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a tornado is moving across a field"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0158": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a house is being damaged by a storm"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0159": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a flowerpot received a lot of hail"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0160": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a parked car is being attacked by hailstones"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0161": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a man is standing in front of a tornado"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0162": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "a car drives down a road with hail"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0163": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "train",
+        "captions": [
+            "people and cars on a wet road"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0164": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "a car drives down a road with hail"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0165": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "a car driving through heavy rain"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0166": {
+        "type": "generated",
+        "source": "message",
+        "category": "storm",
+        "split": "val",
+        "captions": [
+            "a small village is being hit by a severe rainstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "storm_0167": {
+        "type": "generated",
+        "source": "collected",
+        "category": "storm",
+        "split": "test",
+        "captions": [
+            "a woman walks through a rainstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0042": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "val",
+        "captions": [
+            "there are lightning strikes between large buildings"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0043": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "the apartment block is struck by lightning"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0044": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "a rapid sequence captures the progression of a thunderstorm"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0045": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "there is an electrical storm in the mountains"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0046": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "the animation shows a lightning storm"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0047": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "houses and trees are illuminated by lightning in the night sky"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0048": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "val",
+        "captions": [
+            "a bolt of lightning strikes an empty highway"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0049": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "forked lightning strikes"
+        ],
+        "model": "VideoComposer"
+    },
+    "lightning_0050": {
+        "type": "generated",
+        "source": "collected",
+        "category": "lightning",
+        "split": "train",
+        "captions": [
+            "a storm causes a lightning strike in a parking lot of cars"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0032": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "a large city is flooded with a huge amount of water as buildings collapse"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0033": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "cars and boats were swept away by the tsunami"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0034": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "the vacation resorts were hit by a devastating tsunami"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0035": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "a huge wave pushed by a train crashes up a street, flooding a group of people"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0036": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "test",
+        "captions": [
+            "waves hit the shore while a tempest brews nearby"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0037": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "test",
+        "captions": [
+            "people are being evacuated to escape the looming tsunami"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0038": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "a swimming pool is destroyed by a tsunami"
+        ],
+        "model": "VideoComposer"
+    },
+    "tsunami_0039": {
+        "type": "generated",
+        "source": "collected",
+        "category": "tsunami",
+        "split": "train",
+        "captions": [
+            "cars and boats are trapped in a tsunami"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0083": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "the lava is pouring onto the ground"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0084": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "a volcano erupts with a drone view"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0085": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "a volcano erupts and produces molten yellow lava"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0086": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "there is close footage of lava gushing from a volcano"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0087": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "the volcano starts to emit black smoke"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0088": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "val",
+        "captions": [
+            "basaltic lava erupts from a spatter cone"
+        ],
+        "model": "VideoComposer"
+    },
+    "volcano_0089": {
+        "type": "generated",
+        "source": "collected",
+        "category": "volcano",
+        "split": "train",
+        "captions": [
+            "the lava eruption dominates the scene"
+        ],
+        "model": "VideoComposer"
+    }
+}
