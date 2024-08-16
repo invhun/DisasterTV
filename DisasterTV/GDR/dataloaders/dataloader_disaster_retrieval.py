@@ -86,9 +86,9 @@ class Disaster_DataLoader(Dataset):
     def _get_text(self, video_id, caption):
         k = 1
         choice_video_ids = [video_id]
-        pairs_text = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_mask = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_segment = np.zeros((k, self.max_words), dtype=np.long)
+        pairs_text = np.zeros((k, self.max_words), dtype=np.longlong)
+        pairs_mask = np.zeros((k, self.max_words), dtype=np.longlong)
+        pairs_segment = np.zeros((k, self.max_words), dtype=np.longlong)
 
         for i, video_id in enumerate(choice_video_ids):
             words = self.tokenizer.tokenize(caption)
