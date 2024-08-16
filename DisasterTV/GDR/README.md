@@ -5,6 +5,7 @@ conda create -n DisasterTV python=3.9
 conda activate DisasterTV
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
 pip install opencv-python boto3 requests pandas
+pip install ftfy regex tqdm fvcore
 ```
 
 # Disaster Dataset Preprocessing
