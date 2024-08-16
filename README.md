@@ -2,12 +2,6 @@
 
 The official code implementation of DisasterTV. we introduce a text-video pair dataset and an efficient retrieval model for disaster research. 
 
-# Dataset download
-
-Our dataset can be downloaded from the link:
-
-https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
-
 
 # Dataset Construction
 
