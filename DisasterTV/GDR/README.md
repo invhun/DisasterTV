@@ -12,7 +12,7 @@ pip install opencv-python boto3 requests pandas
 1. Download raw video from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
 2. Make directory and place the downloaded video in 'GDR/data/video'
 3. Move to './grid_preprocess' directory
-4. Excute video2patch_image.py
+4. Excute 'video2patch_image.py'
 
 # Run
 
