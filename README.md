@@ -1,11 +1,14 @@
 # DisasterTV
 
-in progress....
+the official code implementation of DisasterTV
 
-<br>
 
-# Text-video retrieval
-## Grid-based Disaster Retrieval
+# Dataset download
 
-# Dataset Construction
-## Matching Filtering Module
+our dataset can be downloaded from the link:
+
+https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
+
+# Text-Video Retrieval
+
+
