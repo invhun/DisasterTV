@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/71f85d59-c899-48bf-ab1d-4afd07089859)
+
 # Acknowledgements
 This code was based on CLIP4Clip.
 
