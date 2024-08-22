@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3e7a2348-28f1-4313-b0a3-80dcc7ab435c)
 
 # Environment Setup
-
+### NOTE: It is the same environment as the "matching_filtering"
 ```
 conda create -n DisasterTV python=3.9
 conda activate DisasterTV
