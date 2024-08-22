@@ -3,7 +3,7 @@
 The official code implementation of DisasterTV. we introduce a text-video pair dataset and an efficient retrieval model for disaster research. 
 
 
-# Dataset Construction
+# Dataset Construction (Matching Filtering Module)
 
 Please refer to the 'DisasterTV/matching_filtering' directory to construct our disaster dataset.
 
