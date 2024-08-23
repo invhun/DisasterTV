@@ -2,7 +2,7 @@
 
 # Disaster Dataset Preprocessing
 
-1. Download raw video from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
+1. Download data from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
 2. Locate the downloaded file as 'GDR/data_GDR'
 3. Move to './grid_preprocess' directory
 4. Excute 'video2patch_image.py'
