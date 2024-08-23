@@ -49,14 +49,14 @@ class Disaster_Rematching_DataLoader(Dataset):
         self.synthetic_subset = synthetic_subset
         #assert self.subset in ["train", "val", "test", "all"]
         video_id_path_dict = {}
-        video_id_path_dict["real_all"] = os.path.join(self.real_data_path, "real_all_list.txt")
-        video_id_path_dict["synthetic_all"] = os.path.join(self.synthetic_data_path, "synthetic_all_list.txt")
+        video_id_path_dict["real_all"] = os.path.join(self.real_data_path, "real_list.txt")
+        video_id_path_dict["synthetic_all"] = os.path.join(self.synthetic_data_path, "synthetic_list.txt")
         caption_path_dict = {}
-        caption_path_dict["real_all"] = os.path.join(self.real_data_path, "real_all_annotation.json")
-        caption_path_dict["synthetic_all"] = os.path.join(self.synthetic_data_path, "synthetic_all.json")
+        caption_path_dict["real_all"] = os.path.join(self.real_data_path, "real_data.json")
+        caption_path_dict["synthetic_all"] = os.path.join(self.synthetic_data_path, "synthetic_data.json")
         
         video_dict = {}
-        
+
         with open(video_id_path_dict[self.synthetic_subset], 'r') as fp:
             synthetic_video_ids = [itm.strip() for itm in fp.readlines()]
             
@@ -67,8 +67,7 @@ class Disaster_Rematching_DataLoader(Dataset):
                         continue
                     file_path_ = os.path.join(root, video_file)
                     video_dict[video_id_] = file_path_
-                    
-            
+                      
         with open(video_id_path_dict[self.real_subset], 'r') as fp:
             real_video_ids = [itm.strip() for itm in fp.readlines()]
             
@@ -85,7 +84,7 @@ class Disaster_Rematching_DataLoader(Dataset):
         combined_video_ids = synthetic_video_ids + real_video_ids
         self.synthetic_video_ids = synthetic_video_ids
         self.real_video_ids = real_video_ids
-            
+        
         with open(caption_path_dict[self.synthetic_subset], 'rb') as f:
             synthetic_captions = json.load(f)
         self.synthetic_captions = synthetic_captions
@@ -119,12 +118,12 @@ class Disaster_Rematching_DataLoader(Dataset):
         return self.sample_len
 
     def _get_rawvideo(self, choice_video_ids):
-        video_mask = np.zeros((len(choice_video_ids), self.max_frames), dtype=np.long)
+        video_mask = np.zeros((len(choice_video_ids), self.max_frames), dtype=np.longlong)
         max_video_length = [0] * len(choice_video_ids)
 
         # Pair x L x T x 3 x H x W
         video = np.zeros((len(choice_video_ids), self.max_frames, 1, 3,
-                          self.rawVideoExtractor.size, self.rawVideoExtractor.size), dtype=np.float)
+                          self.rawVideoExtractor.size, self.rawVideoExtractor.size), dtype=np.float32)
 
         for i, video_id in enumerate(choice_video_ids):
             video_path = self.video_dict[video_id]
@@ -166,9 +165,9 @@ class Disaster_Rematching_DataLoader(Dataset):
     def _get_text(self, video_id, caption):
         k = 1
         choice_video_ids = [video_id]
-        pairs_text = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_mask = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_segment = np.zeros((k, self.max_words), dtype=np.long)
+        pairs_text = np.zeros((k, self.max_words), dtype=np.longlong)
+        pairs_mask = np.zeros((k, self.max_words), dtype=np.longlong)
+        pairs_segment = np.zeros((k, self.max_words), dtype=np.longlong)
 
         for i, video_id in enumerate(choice_video_ids):
             words = self.tokenizer.tokenize(caption)
