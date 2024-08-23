@@ -1,17 +1,5 @@
 ![image](https://github.com/user-attachments/assets/3e7a2348-28f1-4313-b0a3-80dcc7ab435c)
 
-# Environment Setup
-### NOTE: It is the same environment as the "matching_filtering"
-```
-conda create -n DisasterTV python=3.9
-conda activate DisasterTV
-pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
-
-#from CLIP
-pip install opencv-python boto3 requests pandas
-pip install ftfy regex tqdm fvcore
-```
-
 # Disaster Dataset Preprocessing
 
 1. Download raw video from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
