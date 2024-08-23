@@ -1,18 +1,6 @@
 ![image](https://github.com/user-attachments/assets/71f85d59-c899-48bf-ab1d-4afd07089859)
 
 
-# Environment Setup
-### NOTE: It is the same environment as the "GDR"
-```
-conda create -n DisasterTV python=3.9
-conda activate DisasterTV
-pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
-
-#from CLIP
-pip install opencv-python boto3 requests pandas
-pip install ftfy regex tqdm fvcore
-```
-
 # Disaster Dataset Preprocessing
 
 1. Download raw video from the link: https://drive.google.com/drive/folders/1hZN-kR9t0Jw46HubYG7qf3i8GT3aaAwY?usp=drive_link
