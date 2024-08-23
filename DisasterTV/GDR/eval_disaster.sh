@@ -1,10 +1,10 @@
-DATA_PATH=.
+DATA_PATH=./data_GDR
 CKPT_PATH=ckpts
 python -m torch.distributed.launch --nproc_per_node=1 \
 main_task_retrieval.py --do_eval --num_thread_reader=4 \
 --epochs=5 --batch_size=64 --n_display=50 \
---data_path ${DATA_PATH}/data \
---features_path ${DATA_PATH}/data/grid_image \
+--data_path ${DATA_PATH} \
+--features_path ${DATA_PATH}/grid_image \
 --output_dir ${CKPT_PATH} \
 --lr 3.1e-4 --max_words 64 --batch_size_val 90 \
 --datatype disaster --coef_lr 5.75e-4 \
