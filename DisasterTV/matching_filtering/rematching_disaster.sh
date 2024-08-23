@@ -1,12 +1,11 @@
-REAL_DATA_PATH={"Real-world data path"}
-SYNTHETIC_DATA_PATH={"synthetic data path"}
-CKPT_PATH={"ckpt_path"}
+DATA_PATH=./data_matching
+CKPT_PATH=./ckpts
 python -m torch.distributed.launch --nproc_per_node=1 \
 main_task_rematching.py --do_rematching --num_thread_reader=4 \
---real_data_path ${REAL_DATA_PATH} \
---real_features_path ${REAL_DATA_PATH}/videos \
---synthetic_data_path ${SYNTHETIC_DATA_PATH} \
---synthetic_features_path ${SYNTHETIC_DATA_PATH}/gifs \
+--real_data_path ${DATA_PATH}/real_data \
+--real_features_path ${DATA_PATH}/real_video \
+--synthetic_data_path ${DATA_PATH}/synthetic_data \
+--synthetic_features_path ${DATA_PATH}/synthetic_video \
 --output_dir ${CKPT_PATH} \
 --max_words 64 --max_frames 12 --batch_size_val 64 \
 --datatype disaster \
