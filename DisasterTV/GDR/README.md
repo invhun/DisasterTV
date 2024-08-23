@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/3e7a2348-28f1-4313-b0a3-80dcc7ab435c)
 
-# Disaster Dataset Preprocessing
+# Dataset download and preprocessing
 
 1. Download the ‘data_GDR.zip’ file from the following link: [google drive link].
 2. Locate the downloaded file as 'GDR/data_GDR'
