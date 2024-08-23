@@ -7,6 +7,6 @@
 2. Locate the downloaded file as 'matching_filtering/data_matching'
 
 # Run
-1. Download the [CLIP B/32 model](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt) and put it in 'GDR/modules' directory
+1. Download the [CLIP B/32 model](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt) and put it in 'matching_filtering/modules' directory
 2. Execute `train_disaster.sh`
    - For more details, refer to the `train_disaster.sh` file.
