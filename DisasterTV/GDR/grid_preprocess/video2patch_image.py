@@ -12,9 +12,9 @@ def process_video(video_file):
     video_to_patch_image(video_file, output_file, 16)
 
 if __name__ == '__main__':
-    input_video_path = "../data/video/"
-    output_image_path = "../data/grid_image/image_16patch/"
-    video_files = glob.glob('../data/video/*.[mg][pi][f4]')
+    input_video_path = "../data_GDR/video/"
+    output_image_path = "../data_GDR/grid_image/image_16patch/"
+    video_files = glob.glob('../data_GDR/video/*.[mg][pi][f4]')
     os.makedirs(output_image_path)
 
     with Pool(processes=8) as pool: 
