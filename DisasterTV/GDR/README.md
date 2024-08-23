@@ -2,7 +2,7 @@
 
 # Dataset download and preprocessing
 
-1. Download the ‘data_GDR.zip’ file from the following link: [Dataset link](https://drive.google.com/drive/u/0/folders/1ULdBFousnyn5HFV_usdpRINbOeAyVf5t).
+1. Download the ‘data_GDR.zip’ file from the following link: [Dataset link](https://drive.google.com/drive/u/0/folders/1ULdBFousnyn5HFV_usdpRINbOeAyVf5t)
 2. Locate the downloaded file as 'GDR/data_GDR'
 3. Move to './grid_preprocess' directory
 4. Excute 'video2patch_image.py'
