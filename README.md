@@ -2,6 +2,10 @@
 
 The official code implementation of DisasterTV. we introduce a text-video pair dataset and an efficient retrieval model for disaster research. 
 
+# Dataset Access
+You can access the dataset from the following Google Drive link:
+[DisasterTV Dataset](https://drive.google.com/drive/folders/1ULdBFousnyn5HFV_usdpRINbOeAyVf5t?usp=sharing)
+
 # Environment Setup
 ```
 conda create -n DisasterTV python=3.9
@@ -15,7 +19,7 @@ pip install ftfy regex tqdm fvcore
 
 # Dataset Construction (Matching Filtering Module)
 
-Please refer to the 'DisasterTV/matching_filtering' directory to construct our disaster dataset.
+Please refer to the 'DisasterTV/matching_filtering' directory for the code to construct our disaster dataset.
 
 ![image](https://github.com/user-attachments/assets/71f85d59-c899-48bf-ab1d-4afd07089859)
 
