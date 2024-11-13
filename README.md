@@ -3,7 +3,7 @@
 The official code implementation of DisasterTV. we introduce a text-video pair dataset and an efficient retrieval model for disaster research. 
 
 # Dataset Access
-You can access the dataset from the following Google Drive link:
+The dataset will be available at the following Google Drive link.
 [DisasterTV Dataset](https://drive.google.com/drive/folders/1ULdBFousnyn5HFV_usdpRINbOeAyVf5t?usp=sharing)
 
 # Environment Setup
